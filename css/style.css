@@ -106,3 +106,12 @@ button[type="reset"]:hover {
     background-color: orangered;
     color: #ffffff;
 }
+
+input#userPhone, input#userImage {
+    margin-bottom: 5px;
+}
+
+small {
+    margin-bottom: 15px;
+    display: block;
+}
